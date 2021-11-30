@@ -18,6 +18,7 @@ knitr::opts_chunk$set(
 <!-- badges: start -->
 [![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
 [![CRAN status](https://www.r-pkg.org/badges/version/mytidypackage)](https://CRAN.R-project.org/package=mytidypackage)
+[![R-CMD-check](https://github.com/quantargo/mytidypackage/workflows/R-CMD-check/badge.svg)](https://github.com/quantargo/mytidypackage/actions)
 <!-- badges: end -->
 
 The goal of mytidypackage is to ...
